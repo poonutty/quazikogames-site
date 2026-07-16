@@ -55,7 +55,7 @@ h3 { font-size: 22px; margin-bottom: 8px; }
 
 .lead { color: var(--text-dim); font-size: 19px; max-width: 640px; }
 
-section { padding: 84px 0; }
+section { padding: 84px 0; scroll-margin-top: 64px; }
 
 /* ---------- nav ---------- */
 .nav {
